@@ -1,9 +1,5 @@
 language: go
 
 go:
-    - tip
-    
-install: go build -v ./zergling.go
-
-script: go test    
+    - tip  
     

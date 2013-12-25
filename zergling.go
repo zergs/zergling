@@ -1,9 +1,9 @@
-package main
+package zergling
 
 import (
 	"fmt"
 )
 
-func main() {
+func Zergling() {
 	fmt.Println("Hello Zergling")
 }
